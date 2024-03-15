@@ -1,6 +1,6 @@
 # ShareBox
 
-- ShareBox project utilizes React for frontend development and Node.js for request handling.
+- ShareBox project utilizes React for frontend development and Node.js for backend.
 - Multer is employed for uploading files, allowing for flexible multiple file uploads via drag and drop or browsing the file system.
 - Nodemailer is integrated for sending email notifications, enabling users to share uploaded files conveniently.
 - Loading animations are implemented to offer visual feedback during file upload and processing.
